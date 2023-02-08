@@ -8,3 +8,4 @@
 7-movethafile moves betty from tmp to my_first_directory in tmp when run
 8-firstdelete deletes betty from my_first_directory when run
 9-firstdirdeletion deletes my_first_diretory in tmp when run
+10-back changes from current to previous directory when run
