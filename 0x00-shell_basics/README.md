@@ -6,3 +6,4 @@
 5-listfilesdigitonly prints all files with users in numerical format when run
 6-firstdirectory creates a directory in tmp directory when run
 7-movethafile moves betty from tmp to my_first_directory in tmp when run
+8-firstdelete deletes betty from my_first_directory when run
