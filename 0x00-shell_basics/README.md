@@ -5,3 +5,4 @@
 4-listmorefiles prints all files including hidden including in long format when run
 5-listfilesdigitonly prints all files with users in numerical format when run
 6-firstdirectory creates a directory in tmp directory when run
+7-movethafile moves betty from tmp to my_first_directory in tmp when run
