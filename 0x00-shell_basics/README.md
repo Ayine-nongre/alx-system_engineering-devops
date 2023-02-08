@@ -10,3 +10,4 @@
 9-firstdirdeletion deletes my_first_diretory in tmp when run
 10-back changes from current to previous directory when run
 11-lists prints out all files in current directory previous directory and boot directory when run
+12-file_type prints out what type of file iamafile is when run
