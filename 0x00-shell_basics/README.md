@@ -13,3 +13,5 @@
 |10-back | changes from current to previous directory when run |
 |11-lists | prints out all files in current directory previous directory and boot directory when run |
 |12-file_type | prints out what type of file iamafile is when run |
+|13-symbolic_link | Creates a symbolic link to /bin/ls, named __ls__ in the current working directory |
+|14-copy_html | copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working director |
