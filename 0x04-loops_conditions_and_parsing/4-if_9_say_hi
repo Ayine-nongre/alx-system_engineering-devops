@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+#Script to print Best School ten times but Hi if 9th iteration
+
+i=0
+while ((i<10))
+do
+	if ((i==9))
+	then
+		echo "Hi"
+	fi
+	echo "Best School"
+	((i += 1))
+done
