@@ -4,8 +4,9 @@ This repository contains various projects and exercises completed during the ALX
 
 ## Project structure
 ## Contributions
-If you'd like to contribute to this repository, please feel free to fork the repository and create a pull request with your changes. Make sure to include a description of your changes and any relevant information 
+If you'd like to contribute to this repository, please feel free to fork the repository and create a pull request with your changes. Make sure to include a description of your changes and any relevant information
 
 ## Acknowledgements
 
 This repository is a collection of projects completed as part of the ALX System Engineering DevOps program. I would like to thank the program instructors and staff for their hard work and dedication in creating and delivering such a comprehensive and valuable program.
+
