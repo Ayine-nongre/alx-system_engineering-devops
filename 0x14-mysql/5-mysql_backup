@@ -1,0 +1,13 @@
+#!/bin/env bash
+# This is a script that creates a database backup
+
+if [[ $# -eq 0 ]]; then
+        echo "Usage: $0 password"
+        exit 1
+fi
+
+sudo mysqldump -u root -p"$1" --all-databases > backup.sql
+
+if [[ $? -eq 0 ]]; then
+        tar -czvf "$(date +%d-%m-%Y).tar.gz" backup.sql
+fi
