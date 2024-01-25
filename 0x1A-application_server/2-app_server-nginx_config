@@ -16,7 +16,7 @@ server {
                 return 301 https://www.youtube.com/watch?v=TfgBHC5gvTI;
         }
 
-        location /airbnb-onepage {
+        location /airbnb-onepage/ {
                 include proxy_params;
                 proxy_pass http://0.0.0.0:5000/airbnb-onepage/;
         }
